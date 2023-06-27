@@ -4,6 +4,6 @@
 
 <img src="admin/base.png">
 
-### by <a href="https://github.com/python019">SUBUX</a>
+### by <a href="https://github.com/cogent-demon">Thomas</a>
 
 </div>
